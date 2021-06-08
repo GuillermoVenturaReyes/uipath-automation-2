@@ -9,7 +9,7 @@
     "UiPath.Form.Activities": "[1.2.1-preview]",
     "UiPath.GSuite.Activities": "[1.11.0]",
     "UiPath.System.Activities": "[21.4.1]",
-    "UiPath.UIAutomation.Activities": "[21.4.4]",
+    "UiPath.UIAutomation.Activities": "[20.10.10]",
     "UiPath.WebAPI.Activities": "[1.7.0]"
   },
   "webServices": [],
